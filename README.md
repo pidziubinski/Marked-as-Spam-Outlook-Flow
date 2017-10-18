@@ -2,6 +2,8 @@
 
 Documentation for marking e-mails as Spam using Microsoft Flow.
 
+![Intro](images/intro.png)
+
 ## Problem description
 
 Legitimate e-mails are very often moved to Spam (junk) folder and deleted after short period of time (e.g. after two weeks).
