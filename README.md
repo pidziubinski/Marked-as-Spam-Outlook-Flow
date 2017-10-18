@@ -64,6 +64,10 @@ Free **Microsoft Flow** accounts have **750** runs per month. If you need to han
 
 [Microsoft Flow documentation](https://flow.microsoft.com/en-us/documentation/getting-started/)
 
+## Current document
+
+[Marked as Spam Outlook Flow](https://github.com/pidziubinski/Marked-as-Spam-Outlook-Flow)
+
 ## Author
 
 Piotr Dziubinski ([twitter](https://twitter.com/pidziubinski), [github](https://github.com/pidziubinski))
