@@ -60,6 +60,10 @@ Free **Microsoft Flow** accounts have **750** runs per month. If you need to han
 27. Check if flow is on.
 28. You can create other flows or logout.
 
+## Final result
+
+![Final Flow](images/final.flow.png)
+
 ## Documentation
 
 [Microsoft Flow documentation](https://flow.microsoft.com/en-us/documentation/getting-started/)
