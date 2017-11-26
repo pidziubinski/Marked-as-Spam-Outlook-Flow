@@ -26,7 +26,7 @@ New e-mails in "Junk Mail" folder will be automatically moved to separate folder
 
 ## Limitations
 
-Free **Microsoft Flow** accounts have **750** runs per month. If you need to handle more e-mails marked as Spam, please consider Flow [paid plan](https://flow.microsoft.com/en-us/pricing/).
+Free **Microsoft Flow** accounts have **750** runs per month. If you need to handle more e-mails marked as Spam, please consider **Microsoft Flow** [paid plan](https://flow.microsoft.com/en-us/pricing/).
 
 ## Configuration
 
