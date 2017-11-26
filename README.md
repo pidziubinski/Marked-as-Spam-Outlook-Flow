@@ -12,7 +12,7 @@ Legitimate e-mails are very often moved to Spam (junk) folder and deleted after 
 
 If you don't want to loose important e-mail, it's better to keep e-mails marked as Spam in different folder. It's possible to do that automatically using **Microsoft Flow**.
 
-> **Important:** Solution based on filters (e.g. when new e-mail arrives and "from" contains "@" move e-mail to "Inbox") doesn't work anymore.
+> **Important:** Workaround based on filters (e.g. when new e-mail arrives and "from" contains "@" move e-mail to "Inbox") doesn't work anymore.
 
 ## Solution description
 
